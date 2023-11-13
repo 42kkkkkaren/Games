@@ -39,8 +39,8 @@
 <p> Rankeamento mostra a maior pontuação dos 10 primeiros jogadores. Função construída com o auxílio da estrutura de dados "lista cadastral". </p>
 <p align="center"><img  width="500" alt="demonstração do rankeamento de pontuação" src="https://github.com/42kkkkkaren/jogo-foge-foge/blob/master/img/ranking.png?raw=true" /></p>
 
-## Dificuldade dos mapas
-Foi acrescentado ao projeto a possibilidade de dificultar o mapa em que o jogador se divertirá, onde incrementa-se o número de fantasmas conforme a dificuldade.
+<p>Dificuldade dos mapas</p>
+<p>Foi acrescentado ao projeto a possibilidade de dificultar o mapa em que o jogador se divertirá, onde incrementa-se o número de fantasmas conforme a dificuldade.</p>
 
 Fácil
 <p align="center"><img  width="500" alt="dificuldade de mapa fácil" src="https://github.com/42kkkkkaren/jogo-foge-foge/blob/master/img/easy.png?raw=true" /></p>
