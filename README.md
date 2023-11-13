@@ -15,4 +15,6 @@
 
 ```android:src="@tools:sample/avatars"```
 <p>It seems that when selecting new images to ImageView, it only adds another tag, so it doesn't remove the old one. </p>
-<img src="Bad Witches Will Try To Kill You/JAVA/Resourcers/22ee4db2-63f5-46e9-a937-b1ceca6cfff4.jpg">
+<div align="center">
+  <img src="Bad Witches Will Try To Kill You/JAVA/Resourcers/22ee4db2-63f5-46e9-a937-b1ceca6cfff4.jpg">
+</div>
