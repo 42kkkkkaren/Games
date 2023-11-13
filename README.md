@@ -3,7 +3,9 @@
 <h4 align="center">
     <a href="https://youtu.be/_NRVn2JJ1JM?si=nE3GW1-d6IcA3xXd">🔗 RyiSnow Tutorial</a>
 </h4>
-<img src="Bad Witches Will Try To Kill You/JAVA/Resourcers/BWWTKY.png">
+<div align="center">
+  <img src="Bad Witches Will Try To Kill You/JAVA/Resourcers/BWWTKY.png">
+</div>
 <p>It has two versions:</p>
 <p><a href="https://github.com/42kkkkkaren/Games/tree/main/Bad%20Witches%20Will%20Try%20To%20Kill%20You/JAVA">- Java</a></p>
 <p><a href="https://github.com/42kkkkkaren/Games/tree/main/Bad%20Witches%20Will%20Try%20To%20Kill%20You/KOTLIN">- Kotlin</a></p>
