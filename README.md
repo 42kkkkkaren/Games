@@ -3,3 +3,6 @@
 <h3 align="center">
     <a href="https://youtu.be/_NRVn2JJ1JM?si=nE3GW1-d6IcA3xXd">🔗 RyiSnow Tutorial</a>
 </h3>
+<p>It has two versions:</p>
+<p>- Java</p>
+<p>- Kotlin</p>
