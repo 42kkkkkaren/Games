@@ -43,7 +43,7 @@
 <p>Foi acrescentado ao projeto a possibilidade de dificultar o mapa em que o jogador se divertirá, onde incrementa-se o número de fantasmas conforme a dificuldade.</p>
 
 Fácil
-<p align="center"><img  width="500" alt="dificuldade de mapa fácil" src="https://github.com/42kkkkkaren/jogo-foge-foge/blob/master/img/easy.png?raw=true" /></p>
+<p align="center"><img  width="500" alt="dificuldade de mapa fácil" src="Pac Man/img/ranking.png" /></p>
 
 Médio
 <p align="center"><img  width="500" alt="dificuldade de mapa médio" src="https://github.com/42kkkkkaren/jogo-foge-foge/blob/master/img/medium.png?raw=true" /></p>
