@@ -8,11 +8,9 @@
 <p>- Kotlin</p>
 <p align="center">Errors while doing the game:</p>
 <p>While I was making the game, I encountered an error when I first used the images and found the solution below:</p>
-```
-AAPT: error: '@tools:sample/avatars' is incompatible with attribute src (attr) reference|color
-```
+
+```AAPT: error: '@tools:sample/avatars' is incompatible with attribute src (attr) reference|color```
 <p>I had to erase the line below:</p>
-```
-android:src="@tools:sample/avatars"
-```
+
+```android:src="@tools:sample/avatars"```
 <p>It seems that when selecting new images to ImageView, it only adds another tag, so it doesn't remove the old one. </p>
