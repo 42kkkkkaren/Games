@@ -4,7 +4,7 @@
     <a href="https://youtu.be/_NRVn2JJ1JM?si=nE3GW1-d6IcA3xXd">🔗 RyiSnow Tutorial</a>
 </h4>
 <p>It has two versions:</p>
-<p>- Java</p>
+<p><a href="https://github.com/42kkkkkaren/Games/tree/main/Bad%20Witches%20Will%20Try%20To%20Kill%20You/JAVA">- Java</a></p>
 <p>- Kotlin</p>
 <p align="center">Errors while doing the game:</p>
 <p>While I was making the game, I encountered an error when I first used the images and found the solution below:</p>
