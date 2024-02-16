@@ -6,7 +6,7 @@
 <div align="center">
   <img src="Bad Witches Will Try To Kill You/JAVA/Resourcers/BWWTKY.png">
 </div>
-<p>It JAVA Version:</p>
+<p>Java version:</p>
 <p><a href="https://github.com/42kkkkkaren/Games/tree/main/Bad%20Witches%20Will%20Try%20To%20Kill%20You/JAVA">- Java</a></p>
 
 <p align="center">Errors while doing the game:</p>
