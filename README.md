@@ -6,9 +6,9 @@
 <div align="center">
   <img src="Bad Witches Will Try To Kill You/JAVA/Resourcers/BWWTKY.png">
 </div>
-<p>It has two versions:</p>
+<p>It JAVA Version:</p>
 <p><a href="https://github.com/42kkkkkaren/Games/tree/main/Bad%20Witches%20Will%20Try%20To%20Kill%20You/JAVA">- Java</a></p>
-<p><a href="https://github.com/42kkkkkaren/Games/tree/main/Bad%20Witches%20Will%20Try%20To%20Kill%20You/KOTLIN">- Kotlin</a></p>
+
 <p align="center">Errors while doing the game:</p>
 <p>While I was making the game, I encountered an error when I first used the images and found the solution below:</p>
 
